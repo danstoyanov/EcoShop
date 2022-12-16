@@ -21,10 +21,5 @@ namespace EcoShop.Application.Products
                 Description = Description
             });
         }
-
-        public void TestMethod()
-        {
-            
-        }
     }
 }
