@@ -10,4 +10,8 @@
     <Folder Include="Products\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\EcoShop.Database\EcoShop.Database.csproj" />
+  </ItemGroup>
+
 </Project>
